@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChackboxDemoCode</string>
+    <string name="order">What do you want to buy ?</string>
+    <string name="Milk">Milk</string>
+    <string name="water">Water</string>
+    <string name="drinks">Drink</string>
+    <string name="ord">Order Now</string>
+</resources>
